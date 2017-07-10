@@ -1,27 +1,27 @@
 # oas_cancelacion_semestre
 Este proyecto se realiza para que los Roles puedan:
 
-##ESTUDIANTE:
+## ESTUDIANTE:
 
 * Solicitar Cancelación de semestre
 * Solicitar Retiro voluntario
 * Solicitar No renovación de matrícula (aplazar semestre).
 
-##CONSEJO DE FACULTAD:
+## CONSEJO DE FACULTAD:
 
 * Aprobación de Solicitud de un estudiante para cancelación de semestre
 * Aprobación de Solicitud de un estudiante para retiro voluntario por primera vez.
 
-##COORDINADOR:
+## COORDINADOR:
 
 * Solicitud Cancelación de semestre de Estudiante
 
-##VICERRECTOR ACADÉMICO:
+## VICERRECTOR ACADÉMICO:
 
 * Registrar fechas permitidas para cancelación
 * Cancelar semestre anterior.
 
-#REQUERIMIENTOS DE DESARROLLO
+# REQUERIMIENTOS DE DESARROLLO
 -----------------------------
 - Node.js: https://nodejs.org/en/download/
 - npm: https://www.npmjs.com/
@@ -51,7 +51,7 @@ $ npm test
 $ npm run-script run
 ```
 
-#INFORMACIÓN
+# INFORMACIÓN
 ------------
 * Basado en Angular Seed https://github.com/angular/angular-seed.git
 * Viene pre configurado con pruebas unitarias. Estos están escritos en el Jasmine https://jasmine.github.io, se ejecuta con el Karma Test Runner https://karma-runner.github.io/1.0/index.html.
